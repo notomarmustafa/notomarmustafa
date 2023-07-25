@@ -1,6 +1,6 @@
 # Omar Mustafa
 
-**'Developer'**
+**`Developer`**
 
 <!-- Social icons section -->
 <p align="center">
