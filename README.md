@@ -1,4 +1,4 @@
-# 🏄‍♂️ Omar Mustafa
+# 🧑‍💻 Omar Mustafa
 
 **`Digital Craftsman (Developer/Businessman)`**
 
