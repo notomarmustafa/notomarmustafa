@@ -5,7 +5,7 @@
 
 **`Digital Craftsman (Developer/Businessman)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[HoppiesStore][youtube]" to more than 400k subscribers.
+Ready to help team achieve company goals. Attentive Swim Instructor with proven abilities individual and group instruction. Careful about monitoring students to prevent injuries and other emergency situations. Knowledgeable about related equipment and teaching techniques. Certified in First Aid, CPR and water rescue. Dedicated Swim Instructor experienced in teaching swimmers at all levels. Knowledgeable in safety protocols and capable of providing enjoyable learning environment. Genuinely enthusiastic for swimming and highly effective in motivating and inspiring students of every age. I can speak 5 languages 2 fluent, 2 intermediate, 1 beginner.
 
 <!-- Social icons section -->
 <p align="center">
