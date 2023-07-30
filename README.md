@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/OmarMustafa24">
-    <h1 style="color: black;">Omar Mustafa</h1></a>
+    <h1 style="color: black;">🧑‍💻 Omar Mustafa</h1></a>
 </p>
 
 **`Digital Craftsman (Developer/Businessman)`**
