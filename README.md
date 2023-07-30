@@ -46,21 +46,6 @@ Ready to help team achieve company goals. Attentive Swim Instructor with proven 
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Three tools that enhance my coding workflow](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=Three+tools+that+enhance+my+coding+workflow&lang=en&timestamp=1689693304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=60 "Three tools that enhance my coding workflow")](https://www.youtube.com/watch?v=o4v1tFN7SBk)
-[![How to Level Up Your Programming](https://ytcards.demolab.com/?id=WFRvz7LDUeI&title=How+to+Level+Up+Your+Programming&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=601 "How to Level Up Your Programming")](https://www.youtube.com/watch?v=WFRvz7LDUeI)
-[![I Accidentally Made a Future Proof API (using GPT-4)](https://ytcards.demolab.com/?id=tF1vJ71KnHY&title=I+Accidentally+Made+a+Future+Proof+API+%28using+GPT-4%29&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=385 "I Accidentally Made a Future Proof API (using GPT-4)")](https://www.youtube.com/watch?v=tF1vJ71KnHY)
-[![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.youtube.com/watch?v=sQDvkd2wtxU)
-[![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=291 "AI bots were given freedom in a virtual city…")](https://www.youtube.com/watch?v=FBvyxc0PSlc)
-[![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
