@@ -51,6 +51,7 @@ Ready to help team achieve company goals. Attentive Swim Instructor with proven 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMustafa24&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<a href="https://app.daily.dev/omarmustafa"><img src="https://api.daily.dev/devcards/5fc1e286c97541eebf2cedbce8810e90.png?r=tn7" width="400" alt="Omar Mustafa's Dev Card"/></a>
 
 #
 
