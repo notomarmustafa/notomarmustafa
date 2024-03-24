@@ -17,7 +17,7 @@ Ready to help team achieve company goals. Attentive Swim Instructor with proven 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/notomarmustafa"><img width="32px" alt="Dev.to" title="Omar Mustafa Dev.to" target="_blank" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/notomarmustafa"><img width="32px" alt="Ko-fi" title="Buy me a coffee"vtarget="_blank" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/notomarmustafa"><img width="32px" alt="Ko-fi" title="Buy me a coffee"vtarget="_blank" src="[https://i.imgur.com/PpLeD3K.png](https://fontawesome.com/icons/address-card?f=classic&s=solid)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://notomarmustafa.github.io/omar.hopppies.com/"><img width="32px" alt="Portfolio" title="Portfolio" target="_blank" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
