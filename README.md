@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/OmarMustafa24">
+  <a href="https://github.com/notomarmustafa">
     <h1 style="color: black;">🧑‍💻 Omar Mustafa</h1></a>
 </p>
 
