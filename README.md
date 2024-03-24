@@ -19,7 +19,7 @@ Ready to help team achieve company goals. Attentive Swim Instructor with proven 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/notomarmustafa"><img width="32px" alt="Ko-fi" title="Buy me a coffee"vtarget="_blank" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://notomarmustafa.github.io/omar.hopppies.com/"><img width="32px" alt="Free Stuff" title="Portfolio" target="_blank" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://notomarmustafa.github.io/omar.hopppies.com/"><img width="32px" alt="Portfolio" title="Portfolio" target="_blank" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 ---
