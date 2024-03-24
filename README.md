@@ -11,7 +11,7 @@ Ready to help team achieve company goals. Attentive Swim Instructor with proven 
 <p align="center">
   <a href="https://www.youtube.com/@hoppiesstore"><img width="32px" alt="Youtube" title="Youtube" target="_blank" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/omar_mus24"><img width="32px" alt="Twitter" title="Twitter" target="_blank" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/notomarmustafa"><img width="32px" alt="Twitter" title="Twitter" target="_blank" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/9vnn2nKfyE" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
