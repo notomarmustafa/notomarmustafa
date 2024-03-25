@@ -1,63 +1,102 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <p align="center">
   <a href="https://github.com/notomarmustafa">
-    <h1 style="color: black;">🧑‍💻 Omar Mustafa</h1></a>
+    <h1 style="color: black;">Omar Mustafa 🧑‍💻</h1></a>
 </p>
 
 **`Digital Craftsman (Developer/Businessman)`**
 
-Ready to help team achieve company goals. Attentive Swim Instructor with proven abilities individual and group instruction. Careful about monitoring students to prevent injuries and other emergency situations. Knowledgeable about related equipment and teaching techniques. Certified in First Aid, CPR and water rescue. Dedicated Swim Instructor experienced in teaching swimmers at all levels. Knowledgeable in safety protocols and capable of providing enjoyable learning environment. Genuinely enthusiastic for swimming and highly effective in motivating and inspiring students of every age. I can speak 5 languages 2 fluent, 2 intermediate, 1 beginner.
+Prepared to actively contribute to the attainment of team and organizational objectives. Experienced Swim Instructor adept at providing attentive, personalized instruction to individuals and groups. Diligent in ensuring the safety of students through vigilant supervision and preemptive measures against emergencies. Well-versed in the utilization of specialized equipment and pedagogical methodologies. Holds certifications in First Aid, CPR, and water rescue. Demonstrates unwavering dedication to fostering a supportive and enjoyable learning atmosphere. Exhibits genuine passion for the craft of swimming and excels in inspiring learners of all ages. Proficient in five languages, with fluency in two, proficiency in two at an intermediate level, and beginner-level proficiency in one.
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@hoppiesstore"><img width="32px" alt="Youtube" title="Youtube" target="_blank" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@hoppiesstore"><img src="img/socials/youtube.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/notomarmustafa"><img width="32px" alt="Twitter" title="Twitter" target="_blank" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="twitter"><img src="img/socials/twitter.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/9vnn2nKfyE" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="discord"><img src="img/socials/discord.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/notomarmustafa"><img width="32px" alt="Dev.to" title="Omar Mustafa Dev.to" target="_blank" src="https://i.imgur.com/mVm29vK.png"/></a>
+  <a href="dev.to"><img src="img/socials/dev.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/notomarmustafa"><img width="32px" alt="Ko-fi" title="Buy me a coffee"vtarget="_blank" src=""/></a>
+  <a href="ko-fi"><img src="img/socials/ko-fi.png" width="50px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://notomarmustafa.github.io/omar.hopppies.com/"><img width="32px" alt="Portfolio" title="Portfolio" target="_blank" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="portfolio"><img src="img/socials/portfolio.png" width="40px" /></a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
-
-<!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+### Languages and Tools 🧰
 <br />
--->
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" />
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/tools/html-5.png" />
+
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="img/tools/css-3.png" />
+
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="img/tools/php.png" />
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/tools/java-script.png" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="img/tools/python.png" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="img/tools/java.png"/>
+
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" />
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="img/tools/linux.png" />
+
+<!-- <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
+
+<!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
+
+<!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
+
+<br />
+<br />
+
 #
 
-### 📊 Stats
+### Stats 📊
+<br />
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMustafa24&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=notomarmustafa&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<br />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=notomarmustafa&theme=gruvbox&border_radius=4.5) 
+
+<br />
+
 <a href="https://app.daily.dev/omarmustafa"><img src="https://api.daily.dev/devcards/5fc1e286c97541eebf2cedbce8810e90.png?r=tn7" width="400" alt="Omar Mustafa's Dev Card"/></a>
 
 #
 
 <details>
- <summary><h3>📰 Omar's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h1>Omar's Coding Journey 📰</h1></summary>
+<h2>My Journey in Web Development: A Multifaceted Exploration</h2>
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+<h4>My journey in web development has been a dynamic and enriching experience, marked by the exploration of various programming languages and technologies. From the foundational elements of HTML and CSS to the intricacies of JavaScript, Python, and PHP, each language has contributed to my growth as a developer in unique ways.</h4>
+
+<h2>HTML and CSS: Building Blocks of the Web</h2>
+
+<h4>My foray into web development began with HTML and CSS, the fundamental building blocks of the internet. HTML provided me with the structure and semantics necessary to create web pages, while CSS empowered me to style and design them to my liking. Through countless hours of trial and error, I honed my skills in crafting visually appealing and user-friendly interfaces, mastering the art of responsive design and layout optimization.</h4>
+
+<h2>JavaScript: Unleashing Interactivity and Dynamism</h2>
+
+<h4>As I delved deeper into the world of web development, I encountered JavaScript, a dynamic and versatile scripting language. JavaScript opened up a world of possibilities, enabling me to add interactivity and dynamism to my web applications. From creating dynamic forms and interactive animations to implementing client-side validation and asynchronous communication with servers, JavaScript empowered me to breathe life into static web pages and create engaging user experiences.</h4>
+
+<h2>Python: Powering Backend Development and Beyond</h2>
+
+<h4>With a solid foundation in frontend development established, I turned my attention to backend development with Python. Renowned for its simplicity, readability, and versatility, Python proved to be an invaluable asset in my coding arsenal. I leveraged Python's extensive libraries and frameworks to build robust web applications, handle database interactions, and implement complex algorithms and data processing tasks. Beyond web development, Python also introduced me to the exciting worlds of data science and machine learning, where I explored its capabilities in analyzing data, building predictive models, and extracting insights from vast datasets.</h4>
+
+<h2>PHP: Navigating the Server-Side Landscape</h2>
+
+<h4>In my quest for a deeper understanding of web development, I ventured into server-side scripting with PHP. PHP empowered me to create dynamic and interactive web applications, handling server-side logic and generating dynamic content seamlessly. With PHP, I gained proficiency in building feature-rich websites, implementing user authentication systems, and integrating with databases to store and retrieve data efficiently. The experience broadened my understanding of web development, equipping me with the skills to architect scalable and maintainable web solutions.</h4>
+
+<h2>Conclusion: A Continuing Journey of Growth and Exploration</h2>
+
+<h4>My journey in web development has been characterized by continuous learning, experimentation, and growth. From mastering the foundational elements of HTML and CSS to exploring the dynamic capabilities of JavaScript, Python, and PHP, each language has played a pivotal role in shaping my development journey. As I continue to evolve as a developer, I am excited to embrace new technologies, tackle complex challenges, and push the boundaries of what's possible in the dynamic and ever-evolving world of web development.</h4>
