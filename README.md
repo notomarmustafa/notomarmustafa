@@ -9,6 +9,8 @@
 
 I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Python, and PHP. With over [X years] of hands-on experience, I specialize in crafting sleek and efficient digital solutions. My expertise ranges from front-end development using HTML, CSS, and JavaScript to back-end development with Python and PHP frameworks such as Django, Flask, Laravel, and CodeIgniter. I thrive on creating engaging and interactive web experiences while ensuring top-notch performance and user satisfaction. I'm dedicated to keeping up with the latest advancements in web development and enjoy sharing my knowledge with others through mentoring and active participation in tech communities. Let's build something amazing together!
 
+<br />
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@hoppiesstore"><img src="img/socials/youtube.png" width="40px" /></a>
