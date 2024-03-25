@@ -42,9 +42,9 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="img/tools/java.png"/>
 
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="img/tools/visual-studio.png"/>
 
-<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="img/tools/visual-studio-code.png"/>
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" />
 
