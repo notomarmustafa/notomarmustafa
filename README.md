@@ -15,13 +15,13 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 <p align="center">
   <a href="https://www.youtube.com/@hoppiesstore"><img src="img/socials/youtube.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="twitter"><img src="img/socials/twitter.png" width="40px" /></a>
+  <a href="https://twitter.com/notomarmustafa"><img src="img/socials/twitter.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="discord"><img src="img/socials/discord.png" width="40px" /></a>
+  <a href="https://discord.com/invite/9vnn2nKfyE"><img src="img/socials/discord.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="dev.to"><img src="img/socials/dev.png" width="40px" /></a>
+  <a href="https://app.daily.dev/omarmustafa"><img src="img/socials/dev.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="ko-fi"><img src="img/socials/ko-fi.png" width="50px" /></a>
+  <a href="https://ko-fi.com/notomarmustafa"><img src="img/socials/ko-fi.png" width="50px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="portfolio"><img src="img/socials/portfolio.png" width="40px" /></a>
 </p>
