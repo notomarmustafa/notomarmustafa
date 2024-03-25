@@ -29,7 +29,6 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 ---
 
 ### Languages and Tools 🧰
-<br />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" />
 
