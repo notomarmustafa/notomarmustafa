@@ -7,7 +7,10 @@
 
 **`Digital Craftsman (Developer/Businessman)`**
 
-Prepared to actively contribute to the attainment of team and organizational objectives. Experienced Swim Instructor adept at providing attentive, personalized instruction to individuals and groups. Diligent in ensuring the safety of students through vigilant supervision and preemptive measures against emergencies. Well-versed in the utilization of specialized equipment and pedagogical methodologies. Holds certifications in First Aid, CPR, and water rescue. Demonstrates unwavering dedication to fostering a supportive and enjoyable learning atmosphere. Exhibits genuine passion for the craft of swimming and excels in inspiring learners of all ages. Proficient in five languages, with fluency in two, proficiency in two at an intermediate level, and beginner-level proficiency in one.
+**Omar Mustafa**  
+*Web Developer & Designer*
+
+I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Python, and PHP. With over [X years] of hands-on experience, I specialize in crafting sleek and efficient digital solutions. My expertise ranges from front-end development using HTML, CSS, and JavaScript to back-end development with Python and PHP frameworks such as Django, Flask, Laravel, and CodeIgniter. I thrive on creating engaging and interactive web experiences while ensuring top-notch performance and user satisfaction. I'm dedicated to keeping up with the latest advancements in web development and enjoy sharing my knowledge with others through mentoring and active participation in tech communities. Let's build something amazing together!
 
 <!-- Social icons section -->
 <p align="center">
