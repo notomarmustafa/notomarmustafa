@@ -13,17 +13,17 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@hoppiesstore"><img src="img/socials/youtube.png" width="40px" /></a>
+  <a href="https://www.youtube.com/@hoppiesstore" target="_blank"><img src="img/socials/youtube.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/notomarmustafa"><img src="img/socials/twitter.png" width="40px" /></a>
+  <a href="https://twitter.com/notomarmustafa" target="_blank"><img src="img/socials/twitter.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/invite/9vnn2nKfyE"><img src="img/socials/discord.png" width="40px" /></a>
+  <a href="https://discord.com/invite/9vnn2nKfyE" target="_blank"><img src="img/socials/discord.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://app.daily.dev/omarmustafa"><img src="img/socials/dev.png" width="40px" /></a>
+  <a href="https://app.daily.dev/omarmustafa" target="_blank"><img src="img/socials/dev.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/notomarmustafa"><img src="img/socials/ko-fi.png" width="50px" /></a>
+  <a href="https://ko-fi.com/notomarmustafa" target="_blank"><img src="img/socials/ko-fi.png" width="50px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="portfolio"><img src="img/socials/portfolio.png" width="40px" /></a>
+  <a href="https://notomarmustafa.github.io/omar.hopppies.com/" target="_blank"><img src="img/socials/portfolio.png" width="40px" /></a>
 </p>
 
 ---
@@ -77,7 +77,7 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <br />
 
-<a href="https://app.daily.dev/omarmustafa"><img src="https://api.daily.dev/devcards/5fc1e286c97541eebf2cedbce8810e90.png?r=tn7" width="400" alt="Omar Mustafa's Dev Card"/></a>
+<a href="https://app.daily.dev/omarmustafa" target="_blank"><img src="https://api.daily.dev/devcards/5fc1e286c97541eebf2cedbce8810e90.png?r=tn7" width="400" alt="Omar Mustafa's Dev Card"/></a>
 
 #
 
