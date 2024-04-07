@@ -79,6 +79,10 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <a href="https://app.daily.dev/omarmustafa" target="_blank"><img src="https://api.daily.dev/devcards/5fc1e286c97541eebf2cedbce8810e90.png?r=tn7" width="400" alt="Omar Mustafa's Dev Card"/></a>
 
+<br />
+
+<a href="https://app.daily.dev/omarmustafa"><img src="https://api.daily.dev/devcards/v2/iCDxgGfnXrzgX0eBcpbTZ.png?type=default&r=ds9" width="356" alt="Omar Mustafa's Dev Card"/></a>
+
 #
 
 <details>
