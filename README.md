@@ -13,7 +13,7 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@hoppiesstore" target="_blank" ><img src="img/socials/youtube.png" width="40px" /></a>
+  <a href="https://www.youtube.com/@hoppiesstore" target="_blank"><img src="img/socials/youtube.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/notomarmustafa" target="_blank"><img src="img/socials/twitter.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
