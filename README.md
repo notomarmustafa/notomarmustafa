@@ -5,7 +5,7 @@
     <h1 style="color: black;">Omar Mustafa 🧑‍💻</h1></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer+and+Web+Designer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer+and+Web+Designer.)](https://chat.codehush.com)
 
 I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Python, and PHP. With over couple years of hands-on experience, I specialize in crafting sleek and efficient digital solutions. My expertise ranges from front-end development using HTML, CSS, and JavaScript to back-end development with Python and PHP frameworks such as Django, Flask, Laravel, and CodeIgniter. I thrive on creating engaging and interactive web experiences while ensuring top-notch performance and user satisfaction. I'm dedicated to keeping up with the latest advancements in web development and enjoy sharing my knowledge with others through mentoring and active participation in tech communities. Let's build something amazing together!
 
