@@ -71,6 +71,10 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <br />
 
+<a href="https://app.daily.dev/omarmustafa"><img src="https://api.daily.dev/devcards/v2/iCDxgGfnXrzgX0eBcpbTZ.png?type=wide&r=24o" width="652" alt="Omar Mustafa's Dev Card"/></a>
+
+<br />
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=notomarmustafa&hide_border=true&theme=tokyonight&layout=compact_radius=4.5) 
 
 <br />
@@ -80,10 +84,6 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 <br />
 
 ![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=notomarmustafa&hide_border=true&show_icons=true&theme=tokyonight&layout=compact)
-
-<br />
-
-<a href="https://app.daily.dev/omarmustafa"><img src="https://api.daily.dev/devcards/v2/iCDxgGfnXrzgX0eBcpbTZ.png?type=wide&r=24o" width="652" alt="Omar Mustafa's Dev Card"/></a>
 
 #
 
