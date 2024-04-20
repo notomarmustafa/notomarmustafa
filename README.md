@@ -71,7 +71,7 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=notomarmustafa&theme=tokyonight&layout=compact_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=notomarmustafa&hide_border=true&theme=tokyonight&layout=compact_radius=4.5) 
 
 <br />
 
