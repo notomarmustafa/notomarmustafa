@@ -38,7 +38,7 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="img/tools/php.png" /></a>
 
-<a href="https://www.w3schools.com/javascript/" target="_blank"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/tools/java-script.png" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/tools/java-script.png" /></a>
 
 <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="img/tools/typescript.png" /></a>
 
