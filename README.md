@@ -32,29 +32,29 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 ### Languages and Tools 🧰
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/tools/html-5.png" />
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/tools/html-5.png" /></a>
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="img/tools/css-3.png" />
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="img/tools/css-3.png" /></a>
 
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="img/tools/php.png" />
+<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="img/tools/php.png" /></a>
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/tools/java-script.png" />
+<a href="https://www.w3schools.com/javascript/" target="_blank"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/tools/java-script.png" /></a>
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="img/tools/typescript.png" />
+<a href="https://www.w3schools.com/typescript/" target="_blank"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="img/tools/typescript.png" /></a>
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="img/tools/reactjs.png" />
+<a href="https://www.w3schools.com/react/" target="_blank"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="img/tools/reactjs.png" /></a>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="img/tools/python.png" />
+<a href="https://www.w3schools.com/python/" target="_blank"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="img/tools/python.png" /></a>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="img/tools/java.png"/>
+<a href="https://www.w3schools.com/java/" target="_blank"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="img/tools/java.png"/></a>
 
-<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="img/tools/visual-studio.png"/>
+<a href="https://www.w3schools.com/mysql/" target="_blank"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="img/tools/mysql.png" /></a>
 
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="img/tools/visual-studio-code.png"/>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="img/tools/visual-studio.png"/></a>
 
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="img/tools/mysql.png" />
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="img/tools/visual-studio-code.png"/></a>
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" />
+<a href="https://www.github.com" target="_blank"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" /></a>
 
 <!-- <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
 
