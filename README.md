@@ -75,11 +75,11 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <br />
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=notomarmustafa&show_icons=true&theme=tokyonight&layout=compact)
+![notomarmustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=notomarmustafa&hide_border=true&show_icons=true&theme=tokyonight&layout=compact)
 
 <br />
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=notomarmustafa&show_icons=true&theme=tokyonight&layout=compact)
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=notomarmustafa&hide_border=true&show_icons=true&theme=tokyonight&layout=compact)
 
 <br />
 
