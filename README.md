@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/notomarmustafa">
-    <h1 style="color: black;">Omar Mustafa 🧑‍💻</h1></a>
+    <h1 style="color: black;">Omar Mustafa 💻</h1></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer+and+Web+Designer.)](https://chat.codehush.com)
