@@ -23,7 +23,7 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://omar.enduryx.com" target="_blank"><img src="img/socials/portfolio.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://app.daily.dev/omarmustafa" target="_blank"><img src="img/socials/daily-dev.png" width="40px" /></a>
+  <a href="https://app.daily.dev/omarmustafa" target="_blank"><img src="img/socials/dailydev.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/notomarmustafa" target="_blank"><img src="img/socials/ko-fi.png" width="50px" /></a>
 </p>
