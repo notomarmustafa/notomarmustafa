@@ -19,7 +19,7 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/invite/9vnn2nKfyE" target="_blank"><img src="img/socials/discord.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codehush.com" target="_blank"><img src="img/socials/chat-code-hush.png" width="40px" /></a>
+  <a href="https://codehush.com" target="_blank"><img src="img/socials/codehush.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://omar.enduryx.com" target="_blank"><img src="img/socials/portfolio.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
