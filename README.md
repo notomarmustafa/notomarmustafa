@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer+and+Web+Designer.)](https://chat.codehush.com)
 
-I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Python, and PHP. With over couple years of hands-on experience, I specialize in crafting sleek and efficient digital solutions. My expertise ranges from front-end development using HTML, CSS, and JavaScript to back-end development with Python and PHP frameworks such as Django, Flask, Laravel, and CodeIgniter. I thrive on creating engaging and interactive web experiences while ensuring top-notch performance and user satisfaction. I'm dedicated to keeping up with the latest advancements in web development and enjoy sharing my knowledge with others through mentoring and active participation in tech communities. Let's build something amazing together!
+I have been a front-end developer and designer for 5+ years now, fluent in HTML, CSS, JavaScript. Expert in Python and PHP. With over 5+ years of hands-on experience, I specialize in crafting sleek and efficient digital solutions. My expertise ranges from front-end development using HTML, CSS, and JavaScript to some back-end like PHP. I thrive on creating engaging and interactive web experiences while ensuring top-notch performance and user satisfaction. I'm dedicated to keeping up with the latest advancements in web development and enjoy sharing my knowledge with others through mentoring and active participation in tech communities. Let's build something amazing together!
 
 <br />
 
@@ -56,9 +56,9 @@ I am a seasoned web developer and designer, fluent in HTML, CSS, JavaScript, Pyt
 
 <a href="https://www.github.com" target="_blank"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" /></a>
 
-<!-- <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 <!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
 
