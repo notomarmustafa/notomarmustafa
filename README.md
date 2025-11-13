@@ -58,8 +58,7 @@ I have been a front-end developer and designer for 5+ years now, fluent in HTML,
 
 <a href="https://www.w3schools.com/nodejs/" target="_blank"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 
-<a href="https://vite.dev" target="_blank"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82556040-42e1-4077-9874-e4b49ef67405" />
- " /></a>
+<a href="https://vite.dev" target="_blank"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82556040-42e1-4077-9874-e4b49ef67405" /></a>
 
 
 
