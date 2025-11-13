@@ -56,11 +56,7 @@ I have been a front-end developer and designer for 5+ years now, fluent in HTML,
 
 <a href="https://www.github.com" target="_blank"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" /></a>
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
+<a href="https://www.w3schools.com/nodejs/" target="_blank"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 
 <br />
 <br />
