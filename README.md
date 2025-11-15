@@ -21,7 +21,7 @@ I have been a front-end developer and designer for 5+ years now, fluent in HTML,
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://codehush.com" target="_blank"><img src="img/socials/codehush2.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://omar.enduryx.com" target="_blank"><img src="img/socials/portfolio.png" width="40px" /></a>
+  <a href="https://omar.codehush.com" target="_blank"><img src="img/socials/portfolio.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://app.daily.dev/omarmustafa" target="_blank"><img src="img/socials/dailydev.png" width="40px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
