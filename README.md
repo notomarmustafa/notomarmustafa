@@ -71,10 +71,6 @@ I have been a front-end developer and designer for 5+ years now, fluent in HTML,
 
 <br />
 
-<a href="https://app.daily.dev/omarmustafa"><img src="https://api.daily.dev/devcards/v2/iCDxgGfnXrzgX0eBcpbTZ.png?type=wide&r=24o" width="652" alt="Omar Mustafa's Dev Card"/></a>
-
-<br />
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=notomarmustafa&hide_border=true&theme=tokyonight&layout=compact_radius=4.5) 
 
 <br />
