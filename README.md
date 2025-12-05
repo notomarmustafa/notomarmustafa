@@ -76,6 +76,7 @@ I have been a front-end developer and designer for 5+ years now, fluent in HTML,
 <br />
 
 ![notomarmustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=notomarmustafa&hide_border=true&show_icons=true&theme=tokyonight&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
