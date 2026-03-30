@@ -32,14 +32,19 @@ I am a **Software Engineer** and **UI/UX Designer** with over 5 years of experie
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notomarmustafa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Omar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notomarmustafa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notomarmustafa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notomarmustafa&theme=radical&no-frame=true&column=7" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notomarmustafa&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/notomarmustafa?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/notomarmustafa?cardType=level&theme=tokyonight&preferLogin=false" alt="My Awesome Stats" />
+  </a>
+</p>
 
 ---
 
