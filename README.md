@@ -22,8 +22,12 @@ I am a **Software Engineer** and **UI/UX Designer** with over 5 years of experie
 
 ### 🛠️ Tech Stack & Tooling
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,js,nodejs,supabase,prisma,python,php,mysql,vite,figma,discord&theme=dark" />
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=notomarmustafa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Omar's GitHub Stats" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notomarmustafa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+
 </p>
 
 ---
