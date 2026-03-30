@@ -39,6 +39,8 @@ I am a **Software Engineer** and **UI/UX Designer** with over 5 years of experie
   <img src="https://github-profile-trophy.vercel.app/?username=notomarmustafa&theme=radical&no-frame=true&column=7" width="100%" />
 </p>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/notomarmustafa?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ---
 
 ### 🏢 Brands & Ventures
