@@ -39,12 +39,6 @@ I am a **Software Engineer** and **UI/UX Designer** with over 5 years of experie
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notomarmustafa&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/notomarmustafa?cardType=level&theme=tokyonight&preferLogin=false" alt="My Awesome Stats" />
-  </a>
-</p>
-
 ---
 
 ### 🏢 Brands & Ventures
