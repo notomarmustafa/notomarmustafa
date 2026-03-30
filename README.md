@@ -22,8 +22,6 @@ I am a **Software Engineer** and **UI/UX Designer** with over 5 years of experie
 
 ### 🛠️ Tech Stack & Tooling
 
-### 🛠️ Tech Stack & Tooling
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,js,nodejs,supabase,prisma,python,php,mysql,vite,figma,discord&theme=dark" />
 </p>
