@@ -1,115 +1,66 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 <p align="center">
-  <a href="https://github.com/notomarmustafa">
-    <h1 style="color: black;">Omar Mustafa 💻</h1></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=OMAR+MUSTAFA;Founder+of+Code+Hush;UI%2FUX+Designer+%26+Engineer" alt="Typing SVG" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer+and+Web+Designer.)](https://chat.codehush.com)
-
-I have been a front-end developer and designer for 5+ years now, fluent in HTML, CSS, JavaScript. Expert in Python and PHP. With over 5+ years of hands-on experience, I specialize in crafting sleek and efficient digital solutions. My expertise ranges from front-end development using HTML, CSS, and JavaScript to some back-end like PHP. I thrive on creating engaging and interactive web experiences while ensuring top-notch performance and user satisfaction. I'm dedicated to keeping up with the latest advancements in web development and enjoy sharing my knowledge with others through mentoring and active participation in tech communities. Let's build something amazing together!
-
-<br />
-
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@omariscoding" target="_blank"><img src="img/socials/youtube.png" width="40px" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/notomarmustafa" target="_blank"><img src="img/socials/twitter.png" width="40px" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/invite/9vnn2nKfyE" target="_blank"><img src="img/socials/discord.png" width="40px" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codehush.com" target="_blank"><img src="img/socials/codehush2.png" width="40px" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://omar.codehush.com" target="_blank"><img src="img/socials/portfolio.png" width="40px" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://app.daily.dev/omarmustafa" target="_blank"><img src="img/socials/dailydev.png" width="40px" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/notomarmustafa" target="_blank"><img src="img/socials/ko-fi.png" width="50px" /></a>
+  <a href="https://omar.codehush.com"><strong>Portfolio v1</strong></a> • 
+  <a href="https://omarmustafa.vercel.app"><strong>Portfolio v2</strong></a> • 
+  <a href="https://codehush.com"><strong>Code Hush</strong></a>
 </p>
 
 ---
 
-### Languages and Tools 🧰
+### ⚡ Quick Bit
+I am a **Software Engineer** and **UI/UX Designer** with over 5 years of experience building scalable digital products. As the founder of **Code Hush**, I specialize in bridging the gap between high-end aesthetics and robust functional code. Currently focused on the React ecosystem, SaaS architecture, and Discord automation.
 
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/tools/html-5.png" /></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="img/tools/css-3.png" /></a>
-
-<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="img/tools/php.png" /></a>
-
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="img/tools/java-script.png" /></a>
-
-<a href="https://www.w3schools.com/typescript/" target="_blank"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="img/tools/typescript.png" /></a>
-
-<a href="https://www.w3schools.com/react/" target="_blank"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="img/tools/reactjs.png" /></a>
-
-<a href="https://www.w3schools.com/python/" target="_blank"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="img/tools/python.png" /></a>
-
-<a href="https://www.w3schools.com/java/" target="_blank"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="img/tools/java.png"/></a>
-
-<a href="https://www.w3schools.com/mysql/" target="_blank"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="img/tools/mysql.png" /></a>
-
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="img/tools/visual-studio.png"/></a>
-
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="img/tools/visual-studio-code.png"/></a>
-
-<a href="https://www.github.com" target="_blank"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="img/tools/github.png" /></a>
-
-<a href="https://www.w3schools.com/nodejs/" target="_blank"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-
-<a href="https://vite.dev" target="_blank"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/82556040-42e1-4077-9874-e4b49ef67405" /></a>
-
-
-
-<br />
-<br />
-
-#
-
-### Stats 📊
-
-<br />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=notomarmustafa&hide_border=true&theme=tokyonight&layout=compact_radius=4.5) 
-
-<br />
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/notomarmustafa?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-#
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=notomarmustafa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* 🔭 **Current Project:** Scaling **Hush Bot** and building the **Code Hush Hub**.
+* 🎨 **Design Ethos:** Minimalist, futuristic, and geometric "Big Tech" interfaces.
+* 🚀 **Tech Stack:** React 19, Tailwind CSS v4, Vite, Supabase, and Prisma.
+* 🎮 **Fun Fact:** When I'm not coding, I'm likely in Valorant or building branding for streamers.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=notomarmustafa&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<details>
- <summary><h1>Omar's Coding Journey 📰</h1></summary>
-<h2>My Journey in Web Development: A Multifaceted Exploration</h2>
+### 🛠️ Tech Stack & Tooling
 
-<h4>My journey in web development has been a dynamic and enriching experience, marked by the exploration of various programming languages and technologies. From the foundational elements of HTML and CSS to the intricacies of JavaScript, Python, and PHP, each language has contributed to my growth as a developer in unique ways.</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,js,nodejs,supabase,prisma,python,php,mysql,vite,figma,discord&theme=dark" />
+</p>
 
-<h2>HTML and CSS: Building Blocks of the Web</h2>
+---
 
-<h4>My foray into web development began with HTML and CSS, the fundamental building blocks of the internet. HTML provided me with the structure and semantics necessary to create web pages, while CSS empowered me to style and design them to my liking. Through countless hours of trial and error, I honed my skills in crafting visually appealing and user-friendly interfaces, mastering the art of responsive design and layout optimization.</h4>
+### 📊 Project Metrics & Activity
 
-<h2>JavaScript: Unleashing Interactivity and Dynamism</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notomarmustafa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Omar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notomarmustafa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
 
-<h4>As I delved deeper into the world of web development, I encountered JavaScript, a dynamic and versatile scripting language. JavaScript opened up a world of possibilities, enabling me to add interactivity and dynamism to my web applications. From creating dynamic forms and interactive animations to implementing client-side validation and asynchronous communication with servers, JavaScript empowered me to breathe life into static web pages and create engaging user experiences.</h4>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=notomarmustafa&theme=radical&no-frame=true&column=7" width="100%" />
+</p>
 
-<h2>Python: Powering Backend Development and Beyond</h2>
+---
 
-<h4>With a solid foundation in frontend development established, I turned my attention to backend development with Python. Renowned for its simplicity, readability, and versatility, Python proved to be an invaluable asset in my coding arsenal. I leveraged Python's extensive libraries and frameworks to build robust web applications, handle database interactions, and implement complex algorithms and data processing tasks. Beyond web development, Python also introduced me to the exciting worlds of data science and machine learning, where I explored its capabilities in analyzing data, building predictive models, and extracting insights from vast datasets.</h4>
+### 🏢 Brands & Ventures
 
-<h2>PHP: Navigating the Server-Side Landscape</h2>
+| Entity | Description | Tech |
+| :--- | :--- | :--- |
+| **Code Hush** | Parent tech company & software hub. | React / Vite |
+| **Enduryx** | Physical clothing brand & e-commerce. | Production / Design |
+| **Hush Access** | High-performance web accessibility widget. | JS / Automation |
+| **Nightmarevgp** | Gaming & content creation hub. | Graphics / Streaming |
 
-<h4>In my quest for a deeper understanding of web development, I ventured into server-side scripting with PHP. PHP empowered me to create dynamic and interactive web applications, handling server-side logic and generating dynamic content seamlessly. With PHP, I gained proficiency in building feature-rich websites, implementing user authentication systems, and integrating with databases to store and retrieve data efficiently. The experience broadened my understanding of web development, equipping me with the skills to architect scalable and maintainable web solutions.</h4>
+---
 
-<h2>Conclusion: A Continuing Journey of Growth and Exploration</h2>
+### 📬 Connect With Me
 
-<h4>My journey in web development has been characterized by continuous learning, experimentation, and growth. From mastering the foundational elements of HTML and CSS to exploring the dynamic capabilities of JavaScript, Python, and PHP, each language has played a pivotal role in shaping my development journey. As I continue to evolve as a developer, I am excited to embrace new technologies, tackle complex challenges, and push the boundaries of what's possible in the dynamic and ever-evolving world of web development.</h4>
+<p align="left">
+<a href="https://discord.com/invite/9vnn2nKfyE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/notomarmustafa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@omariscoding"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://ko-fi.com/notomarmustafa"><img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+</p>
+
+<p align="right">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
