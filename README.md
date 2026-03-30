@@ -77,10 +77,6 @@ I have been a front-end developer and designer for 5+ years now, fluent in HTML,
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/notomarmustafa?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<br />
-
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=notomarmustafa&hide_border=true&show_icons=true&theme=tokyonight&layout=compact)
-
 #
 
 ## 🏆 GitHub Trophies
