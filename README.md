@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://omar.codehush.com"><strong>Portfolio v1</strong></a> • 
-  <a href="https://omarmustafa.vercel.app"><strong>Portfolio v2</strong></a> • 
+  <a href="https://omar.codehush.com"><strong>Portfolio</strong></a> • 
+  <a href="https://hush.codehush.com"><strong> HushBot</strong></a> • 
   <a href="https://codehush.com"><strong>Code Hush</strong></a>
 </p>
 
